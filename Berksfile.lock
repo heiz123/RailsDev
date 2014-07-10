@@ -1,0 +1,81 @@
+{
+  "sources": {
+    "zsh": {
+      "locked_version": "1.0.0"
+    },
+    "mysql": {
+      "locked_version": "4.1.2"
+    },
+    "database": {
+      "locked_version": "2.0.0"
+    },
+    "nginx": {
+      "locked_version": "2.4.4"
+    },
+    "base": {
+      "path": "./site-cookbooks/base"
+    },
+    "mysql56": {
+      "path": "./site-cookbooks/mysql56"
+    },
+    "ruby_build": {
+      "locked_version": "0.8.0"
+    },
+    "rbenv": {
+      "locked_version": "0.7.3",
+      "git": "git://github.com/fnichol/chef-rbenv.git",
+      "ref": "0a3018634bafe58ad21c6ee271af015220e444b9"
+    },
+    "ruby_gem": {
+      "path": "./site-cookbooks/ruby_gem"
+    },
+    "openssl": {
+      "locked_version": "1.1.0"
+    },
+    "build-essential": {
+      "locked_version": "1.4.4"
+    },
+    "homebrew": {
+      "locked_version": "1.5.4"
+    },
+    "windows": {
+      "locked_version": "1.31.0"
+    },
+    "chef_handler": {
+      "locked_version": "1.1.6"
+    },
+    "postgresql": {
+      "locked_version": "3.4.1"
+    },
+    "apt": {
+      "locked_version": "2.4.0"
+    },
+    "aws": {
+      "locked_version": "2.3.0"
+    },
+    "xfs": {
+      "locked_version": "1.1.0"
+    },
+    "bluepill": {
+      "locked_version": "2.3.1"
+    },
+    "rsyslog": {
+      "locked_version": "1.12.2"
+    },
+    "ohai": {
+      "locked_version": "1.1.12"
+    },
+    "runit": {
+      "locked_version": "1.5.10"
+    },
+    "yum": {
+      "locked_version": "3.2.2"
+    },
+    "yum-epel": {
+      "locked_version": "0.3.6"
+    },
+    "java": {
+      "locked_version": "1.21.2"
+    }
+  }
+}

@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant":{"guestpath":"/home/vagrant","hostpath":"/Users/nagawahajime/RailsDev/vagrant","disabled":false},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/nagawahajime/RailsDev","disabled":false},"v-csc-1":{"id":"v-csc-1","guestpath":"/tmp/vagrant-chef-3/chef-solo-1/cookbooks","hostpath":"/Users/nagawahajime/RailsDev/site-cookbooks","disabled":false}}}
